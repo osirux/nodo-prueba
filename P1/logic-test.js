@@ -1,4 +1,4 @@
-// No editar
+// No editar prueb
 const teams = [
   { id: 1, country: 'Spain', name: 'Real Madrid C.F.' },
   { id: 2, country: 'Italy', name: 'A.C. Milan' },
